@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabia\\source\\repos\\WebApii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\webapii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\webapii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\webapii.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\webapii.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Migrations\\20241120151810_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApii\\Migrations\\20241120151810_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|c:\\users\\fabia\\source\\repos\\webapii\\webapii\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496083C2-02C3-4711-9D9E-7E2ECB48A274}|WebApii\\WebApii.csproj|solutionrelative:webapii\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "WebApii\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "WebApii\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:27:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241120151810_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Migrations\\20241120151810_Initial.cs",
+              "RelativeDocumentMoniker": "WebApii\\Migrations\\20241120151810_Initial.cs",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Migrations\\20241120151810_Initial.cs",
+              "RelativeToolTip": "WebApii\\Migrations\\20241120151810_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:18:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApii.http",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\WebApii.http",
+              "RelativeDocumentMoniker": "WebApii\\WebApii.http",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\WebApii.http",
+              "RelativeToolTip": "WebApii\\WebApii.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-20T15:13:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApii\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\appsettings.json",
+              "RelativeToolTip": "WebApii\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T14:49:57.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApii\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebApii\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:40:22.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApii",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\WebApii.csproj",
+              "RelativeDocumentMoniker": "WebApii\\WebApii.csproj",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\WebApii.csproj",
+              "RelativeToolTip": "WebApii\\WebApii.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T14:29:08.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "WebApii\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Models\\Students.cs",
+              "RelativeToolTip": "WebApii\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:31:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Program.cs",
+              "RelativeDocumentMoniker": "WebApii\\Program.cs",
+              "ToolTip": "C:\\Users\\fabia\\source\\repos\\WebApii\\WebApii\\Program.cs",
+              "RelativeToolTip": "WebApii\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:21:56.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
